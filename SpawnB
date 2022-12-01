@@ -15,7 +15,6 @@ game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
 game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
 game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
 game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
-game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
 
 local ohString1 = "SpawnVehicle"
 local ohString2 = "1993 Hokura Beep"
