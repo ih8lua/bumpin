@@ -1,0 +1,125 @@
+local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/sol"))()
+
+--[[SolarisLib:New({
+  Name - Title of the UI <string>
+  FolderToSave - Name of the folder where the UI files will be stored <string>
+})]]
+local win = SolarisLib:New({
+  Name = "MRT Tools",
+  FolderToSave = "SolarisLibStuff"
+})
+-- START OF SPAWNPOINT TAB -- 
+
+--win:Tab(title <string>)
+local tab = win:Tab("Spawn")
+
+--tab:Section(title <string>)
+local sec = tab:Section("Spawnpoint")
+
+--sec:Button(title <string>, callback <function>)
+sec:Button("Spawn Beep", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/SpawnB'))()
+end)
+
+sec:Button("AirSpawn Beep", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/AirSpawnB'))()
+end)
+
+sec:Button("Spawn R33", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/SpawnR'))()
+end)
+
+sec:Button("AirSpawn R33", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/AirSpawnR'))()
+end)
+
+--tab:Section(title <string>)
+local sec = tab:Section("Remove Cars")
+
+
+sec:Bind("Quick Remove (All Cars)", Enum.KeyCode.C, false, "BindNormal", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/RemoveAllCars'))()
+  
+end)
+
+SolarisLib:Notification("Welcome to MRT Tools!", "Questions? Add wizard#2496")
+
+-- END OF SPAWNPOINT TAB -- 
+
+
+-- START OF HAZARDS TAB -- 
+
+local tab2 = win:Tab("Hazards Spawning")
+
+--tab:Section(title <string>)
+local sec = tab2:Section("Hazards")
+
+--sec:Button(title <string>, callback <function>)
+sec:Button("Spawn Beep", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/HazardsB'))()
+end)
+
+sec:Button("AirSpawn Beep", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/AirdropHazardsB'))()
+end)
+
+sec:Button("Spawn R33", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/HazardsR'))()
+end)
+
+sec:Button("AirSpawn R33", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/AirdropHazardsR'))()
+end)
+
+-- END OF HAZARDS TAB --
+
+
+-- START OF 7/11 TAB --
+ 
+local tab3 = win:Tab("7/11 Spawning")
+
+--tab:Section(title <string>)
+local sec = tab3:Section("7/11")
+
+--sec:Button(title <string>, callback <function>)
+sec:Button("Spawn Beep", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/711B'))()
+end)
+
+sec:Button("AirSpawn Beep", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/Airdrop711B'))()
+end)
+
+sec:Button("Spawn R33", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/711R'))()
+end)
+
+sec:Button("AirSpawn R33", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/Airdrop711R'))()
+end)
+
+-- END OF 7/11 TAB -- 
+
+
+-- START OF TELEPORT TAB -- 
+
+local tab4 = win:Tab("Teleports")
+
+--tab:Section(title <string>)
+local sec = tab4:Section("Teleports")
+
+
+--sec:Button(title <string>, callback <function>)
+sec:Button("Teleport To Spawn", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/tptospawn'))()
+end)
+
+sec:Button("Teleport To Hazards", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/tptohazards'))()
+end)
+
+sec:Button("Teleport To 7/11", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ih8lua/bumpin/main/tpto711'))()
+end)
+
+-- END OF TELEPORT TAB --
