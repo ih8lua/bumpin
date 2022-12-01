@@ -1,2 +1,3 @@
-# bumpin
-made by the wizard
+# Made by The Wizard
+
+This script is mainly for vite.
