@@ -1,0 +1,58 @@
+local ohString1 = "RemoveVehicle"
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1431.87048, 174.832764, 798.153076, 0.984980464, -0.169811845, 0.0312646329, -7.00313363e-09, 0.181069985, 0.983470201, -0.172665983, -0.968698919, 0.178350389)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1409.42737, 174.830704, 771.564636, -0.952635109, -0.29949522, 0.0528104305, -4.43170523e-09, 0.17365247, 0.984807014, -0.304115653, 0.938161731, -0.165427446)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1452.80664, 174.832764, 739.102722, 0.382183254, 0.908811569, -0.167324409, -4.28701075e-09, 0.18107006, 0.983470201, 0.924086571, -0.375865847, 0.0692019537)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1441.53137, 172.368698, 773.939758, -0.650862575, 0.747661829, -0.131832138, -3.80789045e-09, 0.173647135, 0.984807909, 0.759195566, 0.640974641, -0.11302042)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1398.0907, 172.368698, 808.654419, 0.995201588, -0.0963593423, 0.0169908162, -4.74566875e-09, 0.173648775, 0.98480767, -0.0978458524, -0.980082154, 0.172815531)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1427.74097, 143.641068, 846.823364, -0.325648248, 0.930500984, -0.167693496, 1.57768321e-09, 0.17736128, 0.98414582, 0.945491016, 0.320485353, -0.0577573925)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1431.95093, 106.886696, 840.020081, -0.272524089, -0.94624722, 0.174203381, 3.07265546e-09, 0.181056559, 0.983472705, -0.962148964, 0.268020004, -0.0493422709)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1424.22021, 134.804077, 730.909729, -0.0808370411, 0.960940719, -0.264685333, -3.82430887e-09, 0.265554398, 0.964095891, 0.996727347, 0.07793466, -0.0214666277)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
