@@ -1,0 +1,53 @@
+--BEEP FRONT SPAWN (MULTI)
+local ohString1 = "RemoveVehicle"
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1427.99792, 3.95001531, 704.460022, -0.319119155, 7.79808715e-08, 0.947714627, 4.14347845e-08, 1, -6.83309551e-08, -0.947714627, 1.74626358e-08, -0.319119155)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1423.35803, 3.95001531, 718.374756, -0.314357489, -1.05488184e-07, 0.9493047, -5.73475774e-08, 1, 9.21311667e-08, -0.9493047, -2.54782027e-08, -0.314357489)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1418.61011, 3.95001531, 732.690674, -0.314363778, 5.65163916e-08, 0.949302614, 3.07272323e-08, 1, -4.93592509e-08, -0.949302614, 1.36526817e-08, -0.314363778)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1413.8866, 3.95001531, 746.931702, -0.314359546, 3.34054029e-08, 0.949303985, -3.38497657e-08, 1, -4.63986254e-08, -0.949303985, -4.67195669e-08, -0.314359546)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1409.30664, 3.95001531, 760.741028, -0.314359546, 5.67045682e-08, 0.949303985, -5.74696735e-08, 1, -7.8763712e-08, -0.949303985, -7.93163153e-08, -0.314359546)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1404.37, 3.95001531, 775.626465, -0.314359546, 5.20706287e-08, 0.949303985, -5.27931157e-08, 1, -7.23336768e-08, -0.949303985, -7.28554994e-08, -0.314359546)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1399.81128, 3.95001531, 789.372742, -0.314364403, 1.33594522e-08, 0.949302375, -1.35479512e-08, 1, -1.8559362e-08, -0.949302375, -1.86955056e-08, -0.314364403)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1993 Hokura Beep"
+local ohCFrame3 = CFrame.new(-1395.11621, 3.95001531, 803.530396, -0.314364403, 3.4390581e-08, 0.949302375, -3.4884529e-08, 1, -4.77793343e-08, -0.949302375, -4.81360907e-08, -0.314364403)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
