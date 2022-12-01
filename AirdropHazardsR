@@ -1,0 +1,41 @@
+-- Hazards 
+
+local ohString1 = "RemoveVehicle"
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1995 Nikuna Samurai T33 GR-T"
+local ohCFrame3 = CFrame.new(-284.290863, 114.353226, 506.527618, 0.646777391, 0.751092017, -0.132438034, 2.80452831e-12, 0.173648492, 0.98480767, 0.762678862, -0.636951327, 0.112311915)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1995 Nikuna Samurai T33 GR-T"
+local ohCFrame3 = CFrame.new(-287.487701, 114.360428, 484.022766, 0.409461826, 0.893974125, -0.1820748, 1.75956227e-08, 0.199571803, 0.979883194, 0.91232723, -0.401224762, 0.0817170143)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1995 Nikuna Samurai T33 GR-T"
+local ohCFrame3 = CFrame.new(-305.928467, 114.353226, 519.415222, -0.46435231, 0.872195482, -0.153791949, 2.43929488e-10, 0.173648566, 0.98480767, 0.885650575, 0.457297713, -0.0806341097)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1995 Nikuna Samurai T33 GR-T"
+local ohCFrame3 = CFrame.new(-282.688934, 114.372681, 524.701904, -0.432901174, 0.874268591, -0.219661221, 1.01331112e-08, 0.243677765, 0.969856262, 0.901441395, 0.419851899, -0.105488397)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1995 Nikuna Samurai T33 GR-T"
+local ohCFrame3 = CFrame.new(-278.332977, 114.364525, 489.510071, 0.120003372, 0.969704509, -0.212772995, -2.70354494e-09, 0.214321792, 0.976763129, 0.992773473, -0.117214866, 0.0257193409)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
+
+local ohString1 = "SpawnVehicle"
+local ohString2 = "1995 Nikuna Samurai T33 GR-T"
+local ohCFrame3 = CFrame.new(-266.915253, 124.193741, 523.389893, 0.807745934, -0.580574512, 0.102370657, 2.04592432e-08, 0.173647732, 0.984807849, -0.589530766, -0.795474529, 0.140263259)
+game:GetService("ReplicatedStorage").FrameworkEvent:FireServer(ohString1, ohString2, ohCFrame3)
